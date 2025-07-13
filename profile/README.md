@@ -4,7 +4,8 @@ Welcome to **Moonlight-Scripts** – a hub for high-quality, **free scripts** bu
 
 ## 🚀 Featured Script (Coming Soon!)
 Stay tuned for our first release:  
-**🔧 Advanced Truck Job** – packed with powerful features, clean code, and fully open-source.
+**🔧 Truck Job** – packed with powerful features, clean code, and fully open-source.
+**🔧 Electrician Job** – packed with powerful features, clean code, and fully open-source.
 
 > 💡 Designed for performance. Built for the community.
 
