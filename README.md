@@ -1,6 +1,6 @@
 # 🌙 Moonlight Scripts
 
-Welcome to **Moonlight-Scripts** – a hub for high-quality, **free advanced scripts** built with care and precision. Whether you're a developer looking for inspiration or a user seeking powerful tools, you've come to the right place.
+Welcome to **Moonlight-Scripts** – a hub for high-quality, **free scripts** built with care and precision. Whether you're a developer looking for inspiration or a user seeking powerful tools, you've come to the right place.
 
 ## 🚀 Featured Script (Coming Soon!)
 Stay tuned for our first release:  
