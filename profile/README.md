@@ -3,8 +3,7 @@
 Welcome to **Moonlight-Scripts** – a hub for high-quality, **free scripts** built with care and precision. Whether you're a developer looking for inspiration or a user seeking powerful tools, you've come to the right place.
 
 ## 🚀 Featured Script (Coming Soon!)
-Stay tuned for our first release:  
-**🔧 Truck Job** – packed with powerful features, clean code, and fully open-source.
+Stay tuned for our next release:  
 **🔧 Electrician Job** – packed with powerful features, clean code, and fully open-source.
 
 > 💡 Designed for performance. Built for the community.
